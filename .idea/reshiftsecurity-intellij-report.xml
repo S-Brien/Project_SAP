@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReshiftSecurity-Intellij-Report">
+    <isGitProject>true</isGitProject>
+    <projectName>JavafxProject</projectName>
+    <totalVulnerabilityCount>2</totalVulnerabilityCount>
+    <totalFixCount>68</totalFixCount>
+    <securityIssues>
+      <securityIssue issueHash="00AAEB492412C08BFE9DC41392828B93D781DA8E6F55E627D82ED2B6FE17939D" cweId="89" categoryName="SQL_INJECTION_JDBC" classFQN="persistence.StaffDAO" lineNumber="45" code="ResultSetrs=selectStatement.executeQuery(sl);" methodFullSignature="persistence.StaffDAO.validatePin(String)" isNew="false" />
+      <securityIssue issueHash="EC87AB620A9799B9B3E8272878C7A2285A76F8744F80507D4D0B82026A0D8C6A" cweId="328" categoryName="WEAK_MESSAGE_DIGEST_SHA1" classFQN="register.PasswordCompromised" lineNumber="27" code="digest=MessageDigest.getInstance(&quot;SHA-1&quot;);" methodFullSignature="register.PasswordCompromised.checkPassword(String, String)" isNew="false" />
+    </securityIssues>
+  </component>
+</project>

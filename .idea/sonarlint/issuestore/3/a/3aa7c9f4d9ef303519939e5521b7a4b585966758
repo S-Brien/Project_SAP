@@ -1,0 +1,14 @@
+
+B
+java:S1172?",Remove this unused method parameter "event".(õìáê
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(‘ðŽì
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(ªÏ’õ
+G
+java:S1172d",Remove this unused method parameter "event".(¹ó§´ÿÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(âÈÅ‰
+T	java:S106¤"9Replace this use of System.out or System.err by a logger.(€›âÙûÿÿÿÿ
+U
+java:S1144–"2Remove this unused private "resetPassword" method.(„åµåÿÿÿÿÿ8ù©ì‰Ð/
+u
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¯ÁÊþÿÿÿÿ
+k	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¿Ó†üÿÿÿÿ

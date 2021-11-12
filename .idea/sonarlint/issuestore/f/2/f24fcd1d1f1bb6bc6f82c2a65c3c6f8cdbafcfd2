@@ -1,0 +1,14 @@
+
+n	java:S116#"TRename this field "UserPinFX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ²õàÿÿÿÿÿ
+G
+java:S1172/",Remove this unused method parameter "event".(‰¢’¬úÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(‰Òö˜
+Q	java:S1258"<This block of commented-out lines of code should be removed.(äÖ•˜
+A
+java:S1172K",Remove this unused method parameter "event".(¸Õ™Y
+P	java:S125\"<This block of commented-out lines of code should be removed.(Í·ýQ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(–Ö¤ûÿÿÿÿ
+V	java:S125s"<This block of commented-out lines of code should be removed.(ÒÁ¹»þÿÿÿÿ
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(‹†ÃŒ
+J
+java:S1144œ"3Remove this unused private "getCurrentUser" method.(ŸÊãî

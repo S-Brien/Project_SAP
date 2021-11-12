@@ -1,0 +1,45 @@
+
+V	java:S125 "<This block of commented-out lines of code should be removed.(¬ÍûĞıÿÿÿÿ
+N
+java:S1854"8Remove this useless assignment to local variable "path".(âíÏÒ
+>	java:S108j")Either remove or fill this block of code.(”ı¾
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ
+>	java:S108)")Either remove or fill this block of code.(”ı¾
+T
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(¡¥ä¸
+4
+java:S1128"Remove this duplicated import.(ü“–
+>
+java:S1481u"(Remove this unused "myb" local variable.(·±Õú
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(©…¸Å
+U
+java:S11615":Add the "@Override" annotation above this method signature(Œ»íıÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ÑĞ¢–şÿÿÿÿ
+h
+java:S2095C"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÓÆ€ûúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×áÂòüÿÿÿÿ
+U
+java:S1854v":Remove this useless assignment to local variable "output".(ô¥—Ãúÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ª³ùÿÿÿÿ
+Q	java:S125|"<This block of commented-out lines of code should be removed.(¯ß¢â
+0
+java:S1220""Move this file to a named package.
+K
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš
+Z	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(„ãÆ%
+?
+java:S1481")Remove this unused "path" local variable.(âíÏÒ
+Z
+java:S2147P"DCombine this catch with the one at line 78, which has the same body.(¤·¿Ã
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(šÙÏ®
+P
+java:S1128"5Remove this unused import 'java.util.ResourceBundle'.(ıÆ£¯øÿÿÿÿ
+F
+java:S1481v"+Remove this unused "output" local variable.(ô¥—Ãúÿÿÿÿ
+h
+java:S20953"MUse try-with-resources or close this "ZipOutputStream" in a "finally" clause.(»ƒÏùÿÿÿÿ
+>	java:S108_")Either remove or fill this block of code.(”ı¾

@@ -1,0 +1,22 @@
+
+Q	java:S125:"<This block of commented-out lines of code should be removed.(¥ºŠ
+Q	java:S125G"<This block of commented-out lines of code should be removed.(±Í¦å
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(é¨ñüÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(¢µ±Å
+Q	java:S125{"<This block of commented-out lines of code should be removed.(¼ŸÓ€
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(¹ÃÛ©
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(ã±¡¡ÿÿÿÿÿ
+R	java:S125†"<This block of commented-out lines of code should be removed.(¼ŸÓ€
+P
+java:S1128"5Remove this unused import 'javafx.event.ActionEvent'.(î•¯¼ýÿÿÿÿ
+^
+java:S1128"HRemove this unused import 'javafx.scene.control.cell.ComboBoxTableCell'.(¥øÖÊ
+I
+java:S1144;"-Remove this unused private "getStaff" method.(ª¢¡u8—àÕ‰Ð/
+t
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(±àâ™ûÿÿÿÿ
+t
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(Åâ’Þúÿÿÿÿ
+d
+java:S1192l"IDefine a constant instead of duplicating this literal "UserName" 3 times.(±àâ™ûÿÿÿÿ
+k	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àü¡Ðøÿÿÿÿ

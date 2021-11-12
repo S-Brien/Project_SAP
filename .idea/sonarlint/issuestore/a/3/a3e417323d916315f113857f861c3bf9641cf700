@@ -1,0 +1,24 @@
+
+Q	java:S1252"<This block of commented-out lines of code should be removed.(ÔÃ¿î
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(Ëî®¨
+S
+java:S1854œ"7Remove this useless assignment to local variable "pin".(œİşùÿÿÿÿ
+U
+java:S1854›"9Remove this useless assignment to local variable "count".(‚„ËÅøÿÿÿÿ
+C
+java:S1172š",Remove this unused method parameter "event".(±¸ø–
+V	java:S125]"<This block of commented-out lines of code should be removed.(‰ÉĞÁùÿÿÿÿ
+R	java:S125‚"<This block of commented-out lines of code should be removed.(ò—şã
+F
+java:S1481›"*Remove this unused "count" local variable.(‚„ËÅøÿÿÿÿ
+D
+java:S1481œ"(Remove this unused "pin" local variable.(œİşùÿÿÿÿ
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(Ÿø«şÿÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(Š¿Úˆúÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(Š¿Úˆúÿÿÿÿ
+W	java:S125µ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+W	java:S125Á"<This block of commented-out lines of code should be removed.(ˆ¾ÎÆıÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(¦é¨ÿÿÿÿÿ
+R	java:S125Í"<This block of commented-out lines of code should be removed.(Êò¸‹
+C
+java:S10688"(Remove this unused "type" private field.(–î†ûÿÿÿÿ

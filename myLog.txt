@@ -1,0 +1,1350 @@
+info : Login Controller accessed : 00:08:56.272972
+info : Login attempt : 00:09:08.285251900
+info : login successful : 00:09:09.312619500
+info : user page accessed : 00:09:09.608434800
+info : exit program : 00:09:09.778329300
+info : Login Controller accessed : 00:09:12.191557100
+info : exit program : 00:09:14.028698400
+info : Login Controller accessed : 12:29:54.249346100
+info : Login attempt : 12:30:14.359476700
+info : login successful : 12:30:16.630787700
+info : admin page accessed : 12:30:17.572277700
+info : exit program : 12:30:18.825914600
+info : Login Controller accessed : 12:30:37.760024800
+info : Login attempt : 12:30:47.542734700
+info : Invalid credentials : 12:30:48.022120100
+info : Login attempt : 12:30:50.598136300
+info : Invalid credentials : 12:30:50.910198
+info : Login attempt : 12:30:53.366689800
+info : Invalid credentials : 12:30:53.613431
+info : Login attempt : 12:30:54.886173
+info : Invalid credentials : 12:30:55.463566900
+info : Login attempt : 12:30:56.494171100
+info : Invalid credentials : 12:30:56.773204500
+info : Login attempt : 12:30:57.943060100
+info : Invalid credentials : 12:30:58.248785600
+info : Login attempt : 12:30:59.141873600
+info : Invalid credentials : 12:30:59.375455700
+info : Login attempt : 12:31:00.118462300
+info : Invalid credentials : 12:31:00.437821500
+info : Login attempt : 12:31:01.485772400
+info : Invalid credentials : 12:31:01.721626900
+info : Login attempt : 12:31:02.918263500
+info : Invalid credentials : 12:31:03.241271200
+info : Login attempt : 12:31:04.622805900
+info : Invalid credentials : 12:31:04.763886100
+info : Login attempt : 12:31:23.005893500
+info : Invalid credentials : 12:31:23.226943400
+info : Login attempt : 12:31:35.622366200
+info : Invalid credentials : 12:31:35.831073500
+info : Login attempt : 12:31:44.966161300
+info : login successful : 12:31:45.174928500
+info : admin page accessed : 12:31:45.364750800
+info : exit program : 12:31:45.847684900
+info : Login Controller accessed : 12:32:02.735148500
+info : leaving login page : 12:32:08.477988700
+info : Register attempt could be made : 12:32:08.779337700
+info : Password has been compromised : 12:32:44.576440
+info : Login Controller accessed : 12:32:57.849291100
+info : exit program : 12:33:02.589158900
+info : Login Controller accessed : 12:40:41.867645400
+info : leaving login page : 12:40:48.250365500
+info : Register attempt could be made : 12:40:48.515248600
+info : Password is not long enough : 12:41:08.559292500
+info : Login Controller accessed : 12:41:30.000293800
+info : exit program : 12:41:32.465835800
+info : Login Controller accessed : 14:12:55.608382100
+info : Login attempt : 14:16:59.190360500
+info : login successful : 14:17:02.435629700
+info : admin page accessed : 14:17:04.000457500
+info : exit program : 14:17:06.213117400
+info : Login Controller accessed : 14:17:11.142185400
+info : Login attempt : 14:17:22.742390200
+info : Invalid credentials : 14:17:23.256072100
+info : Login attempt : 14:17:35.462316800
+info : Invalid credentials : 14:17:36.140317700
+info : Login attempt : 14:17:43.773269500
+info : Invalid credentials : 14:17:44.424066800
+info : leaving login page : 14:17:56.741987
+info : Register attempt could be made : 14:17:57.038502800
+info : OK : 14:18:50.943356600
+info : new user added : 14:18:51.734890700
+info : Login Controller accessed : 14:18:51.955643600
+info : Login attempt : 14:19:05.133671800
+info : login successful : 14:19:05.324054500
+info : user page accessed : 14:19:05.847653400
+info : exit program : 14:19:06.038437700
+info : Login Controller accessed : 14:19:08.388324
+info : exit program : 14:19:10.653329100
+info : Login Controller accessed : 23:58:05.830367800
+info : Login attempt : 23:58:31.138595400
+info : login successful : 23:58:31.979053400
+info : user page accessed : 23:58:32.098616100
+info : exit program : 23:58:32.131419200
+info : Login Controller accessed : 23:58:34.125877300
+info : Login attempt : 23:58:40.250639600
+info : login successful : 23:58:40.324094900
+info : Super page accessed : 23:58:40.395593600
+info : exit program : 23:58:40.423272700
+info : Login Controller accessed : 23:58:41.992809800
+info : exit program : 23:58:43.411021800
+info : Login Controller accessed : 00:17:16.998148200
+info : Login attempt : 00:17:24.714404600
+info : login successful : 00:17:25.370047700
+info : user page accessed : 00:17:25.501947300
+info : exit program : 00:17:25.548439700
+info : Login Controller accessed : 00:17:41.303702400
+info : exit program : 00:17:42.743175
+info : Login Controller accessed : 00:19:05.514736200
+info : Login attempt : 00:19:12.444920600
+info : login successful : 00:19:13.051891200
+info : user page accessed : 00:19:13.182517
+info : exit program : 00:19:13.236088100
+info : Super page accessed : 00:19:16.506592500
+info : Login Controller accessed : 00:19:17.712833
+info : exit program : 00:19:19.036459400
+info : Login Controller accessed : 00:22:40.239830100
+info : Login attempt : 00:22:47.954965300
+info : login successful : 00:22:48.544710700
+info : Super page accessed : 00:22:48.664087600
+info : exit program : 00:22:48.706907900
+info : Login Controller accessed : 00:22:51.662297300
+info : exit program : 00:22:52.857960200
+info : Login Controller accessed : 10:42:41.971408700
+info : Login attempt : 10:42:55.941550700
+info : login successful : 10:42:56.756815
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/user.fxml:12
+ : 10:42:56.904178600
+info : Login attempt : 10:43:09.926460700
+info : login successful : 10:43:09.994749
+info : Super page accessed : 10:43:10.101117800
+info : exit program : 10:43:10.149980100
+info : Login Controller accessed : 10:43:13.681927200
+info : exit program : 10:43:14.596828400
+info : Login Controller accessed : 10:43:32.056939500
+info : Login attempt : 10:43:38.976867200
+info : login successful : 10:43:39.564217200
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/user.fxml:12
+ : 10:43:39.647544900
+info : Login Controller accessed : 11:00:23.371124600
+info : Login attempt : 11:00:30.871352200
+info : login successful : 11:00:31.450007800
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/user.fxml:12
+ : 11:00:31.518159800
+info : exit program : 11:00:34.211015800
+info : Login Controller accessed : 11:03:31.629727100
+info : Login attempt : 11:03:40.823194200
+info : login successful : 11:03:41.410544500
+info : Super page accessed : 11:03:41.540021400
+info : exit program : 11:03:41.582359300
+info : Login Controller accessed : 11:03:48.573678800
+info : Login attempt : 11:03:54.808551700
+info : login successful : 11:03:54.871549200
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/user.fxml:12
+ : 11:03:54.945580600
+info : exit program : 11:04:00.702549100
+info : Login Controller accessed : 11:05:00.361705400
+info : Login attempt : 11:05:07.323362400
+info : login successful : 11:05:07.914093800
+warn : Error resolving onAction='#setBtnSuperPage', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/user.fxml:29
+ : 11:05:08.030287100
+info : exit program : 11:05:13.735986300
+info : Login Controller accessed : 11:05:51.596961700
+info : Login attempt : 11:05:58.782170100
+info : login successful : 11:05:59.379942100
+warn : Error resolving onAction='#setBtnSuperPage', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/user.fxml:29
+ : 11:05:59.507024300
+info : Login attempt : 11:06:06.342615
+info : login successful : 11:06:06.407249300
+info : Super page accessed : 11:06:06.481828900
+info : exit program : 11:06:06.522607100
+info : Login Controller accessed : 11:06:08.428355200
+info : exit program : 11:06:09.493659300
+info : Login Controller accessed : 11:07:17.429099300
+info : Login attempt : 11:07:24.887218300
+info : login successful : 11:07:25.492228300
+info : user page accessed : 11:07:25.622803300
+info : exit program : 11:07:25.896338700
+info : Login Controller accessed : 11:07:29.373147400
+info : exit program : 11:07:30.777355100
+info : Login Controller accessed : 11:07:50.324218400
+info : Login attempt : 11:07:57.277834700
+info : login successful : 11:07:57.880288
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/user.fxml:12
+ : 11:07:57.976960300
+info : exit program : 11:08:01.620365400
+info : Login Controller accessed : 11:08:17.943155600
+info : Login attempt : 11:08:24.606364
+info : login successful : 11:08:25.229970900
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/user.fxml:12
+ : 11:08:25.310518200
+info : exit program : 11:08:26.813883300
+info : Login Controller accessed : 11:08:43.115868100
+info : Login attempt : 11:08:57.425862300
+info : login successful : 11:08:58.010040100
+info : user page accessed : 11:08:58.139480
+info : exit program : 11:08:58.182965200
+info : Login Controller accessed : 11:08:59.774011500
+info : exit program : 11:09:01.094275200
+info : Login Controller accessed : 11:10:37.145458900
+info : Login attempt : 11:10:44.586094600
+info : login successful : 11:10:45.172570800
+info : user page accessed : 11:10:45.300835400
+info : exit program : 11:10:45.344652100
+info : Super page accessed : 11:10:50.672255600
+info : Login Controller accessed : 11:10:55.223872300
+info : exit program : 11:10:55.967664200
+info : Login Controller accessed : 11:12:36.244034600
+info : Login attempt : 11:12:44.446792
+info : login successful : 11:12:45.032790700
+info : user page accessed : 11:12:45.162285600
+info : exit program : 11:12:45.207697300
+info : Login Controller accessed : 11:12:54.580166100
+info : exit program : 11:12:57.064076300
+info : Login Controller accessed : 11:31:19.917289600
+info : exit program : 11:31:22.170356100
+info : Login Controller accessed : 11:36:55.377407900
+info : Login attempt : 11:37:02.932304900
+info : Invalid credentials : 11:37:03.700929800
+info : Login attempt : 11:37:09.361150600
+info : login successful : 11:37:09.427700800
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:21
+ : 11:37:09.497689700
+info : exit program : 11:37:16.617135400
+info : Login Controller accessed : 11:38:01.324815200
+info : Login attempt : 11:38:10.320285500
+info : login successful : 11:38:10.909379500
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:21
+ : 11:38:11.008081200
+info : exit program : 11:38:16.742314
+info : Login Controller accessed : 11:38:34.429087400
+info : Login attempt : 11:38:42.904532200
+info : login successful : 11:38:43.493139300
+info : Super page accessed : 11:38:43.626097500
+info : exit program : 11:38:43.666397100
+info : Login Controller accessed : 11:38:46.816936900
+info : exit program : 11:38:48.355872300
+info : Login Controller accessed : 11:39:05.336644200
+info : Login attempt : 11:39:13.277046900
+info : login successful : 11:39:13.875663500
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 11:39:13.975720900
+info : exit program : 11:39:15.430664600
+info : Login Controller accessed : 11:49:53.668667700
+info : Login attempt : 11:50:01.882362900
+info : login successful : 11:50:02.471339400
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:21
+ : 11:50:02.569550900
+info : exit program : 11:50:22.437536300
+info : Login Controller accessed : 11:51:04.042998700
+info : Login attempt : 11:51:11.059106400
+info : login successful : 11:51:11.796849
+info : user page accessed : 11:51:11.927148500
+info : exit program : 11:51:11.968950400
+info : Login Controller accessed : 11:52:29.214990100
+info : Login attempt : 11:52:36.814998900
+info : login successful : 11:52:37.403058100
+warn : Error resolving onAction='#setBtnVideo', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:21
+ : 11:52:37.497688800
+info : exit program : 11:52:40.066267200
+info : Login Controller accessed : 11:54:12.387788400
+info : Login attempt : 11:54:21.561492200
+info : login successful : 11:54:22.150632800
+info : Super page accessed : 11:54:22.279125800
+info : exit program : 11:54:22.313410200
+info : Login Controller accessed : 11:54:23.761500100
+info : Login Controller accessed : 11:54:42.542902
+info : Login attempt : 11:54:50.349000100
+info : login successful : 11:54:50.944929
+warn : Error resolving onAction='#setBtnVideo', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:21
+ : 11:54:51.040918800
+info : exit program : 11:54:52.315944400
+info : Login Controller accessed : 11:55:16.082817700
+info : Login attempt : 11:55:24.037586100
+info : login successful : 11:55:24.648692900
+info : Super page accessed : 11:55:24.771881900
+info : exit program : 11:55:24.816165600
+info : Login Controller accessed : 11:55:31.888628400
+info : Login Controller accessed : 12:06:25.983203600
+info : Login attempt : 12:06:35.211264800
+info : login successful : 12:06:35.800965100
+info : Super page accessed : 12:06:35.917180800
+info : exit program : 12:06:35.958570600
+info : Login Controller accessed : 12:06:38.052554400
+info : exit program : 12:06:39.312357500
+info : Login Controller accessed : 12:07:03.619866400
+info : Login attempt : 12:07:13.327746100
+info : login successful : 12:07:13.935462300
+info : Super page accessed : 12:07:14.064470800
+info : exit program : 12:07:14.103265800
+info : Video page accessed : 12:07:15.267422600
+info : Login Controller accessed : 12:11:09.388222
+info : Login attempt : 12:11:16.575062500
+info : login successful : 12:11:17.183684900
+info : Super page accessed : 12:11:17.309546400
+info : exit program : 12:11:17.353984300
+info : Video page accessed : 12:11:19.442065500
+info : Login Controller accessed : 12:14:02.316570100
+info : Login attempt : 12:14:10.803828
+info : login successful : 12:14:11.385320700
+info : Super page accessed : 12:14:11.507477200
+info : exit program : 12:14:11.551716600
+info : Login Controller accessed : 12:14:13.730587100
+info : exit program : 12:14:14.660122700
+info : Login Controller accessed : 12:17:53.990262100
+info : Login attempt : 12:18:02.345076200
+info : login successful : 12:18:02.928586400
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 12:18:03.017535400
+info : exit program : 12:18:05.399880200
+info : Login Controller accessed : 12:18:23.380126300
+info : Login attempt : 12:18:31.074485
+info : login successful : 12:18:31.680073900
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 12:18:31.769759900
+info : exit program : 12:18:32.610563800
+info : Login Controller accessed : 12:18:51.265977500
+info : Login attempt : 12:18:59.246999800
+info : login successful : 12:18:59.825048500
+info : Super page accessed : 12:18:59.949768200
+info : exit program : 12:18:59.990564200
+info : Login Controller accessed : 12:19:01.643093200
+info : exit program : 12:19:02.858586100
+info : Login Controller accessed : 12:19:26.027902700
+info : Login attempt : 12:19:34.127946200
+info : login successful : 12:19:34.725943400
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 12:19:34.824535800
+info : exit program : 12:19:36.655664100
+info : Login Controller accessed : 12:19:47.662715400
+info : Login attempt : 12:19:55.838347700
+info : login successful : 12:19:56.459613700
+info : Super page accessed : 12:19:56.589683600
+info : exit program : 12:19:56.633482200
+info : Login Controller accessed : 12:20:04.411532500
+info : exit program : 12:20:06.000947700
+info : Login Controller accessed : 21:32:11.668824800
+info : Login attempt : 21:32:19.896141300
+info : login successful : 21:32:20.521221500
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 21:32:20.610288500
+info : exit program : 21:32:22.572563900
+info : Login Controller accessed : 21:33:06.930409400
+info : Login attempt : 21:33:14.426688
+info : login successful : 21:33:15.017593700
+info : user page accessed : 21:33:15.135607300
+info : exit program : 21:33:15.178470800
+info : Login Controller accessed : 21:33:16.788693600
+info : Login attempt : 21:33:22.764461800
+info : login successful : 21:33:22.835501800
+info : Super page accessed : 21:33:22.921562700
+info : exit program : 21:33:22.954270800
+info : Login Controller accessed : 21:33:39.882413200
+info : exit program : 21:33:41.678395200
+info : Login Controller accessed : 21:34:53.660831200
+info : Login attempt : 21:35:01.086135900
+info : login successful : 21:35:01.664183500
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 21:35:01.750369900
+info : exit program : 21:35:05.295843400
+info : Login Controller accessed : 21:36:33.623936700
+info : Login attempt : 21:36:41.533376800
+info : login successful : 21:36:42.115750500
+info : Super page accessed : 21:36:42.238664100
+info : exit program : 21:36:42.278891200
+info : Login Controller accessed : 21:36:44.725245800
+info : exit program : 21:36:45.506207
+info : Login Controller accessed : 23:13:26.997513300
+info : Login attempt : 23:13:36.120680700
+info : login successful : 23:13:36.943941300
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 23:13:37.037503500
+info : exit program : 23:13:38.058981500
+info : Login Controller accessed : 17:36:39.602702800
+info : Login attempt : 17:36:48.081440200
+info : login successful : 17:36:49.276456200
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:23
+ : 17:36:49.387609700
+info : exit program : 17:36:52.729316100
+info : Login Controller accessed : 17:37:15.243494800
+info : Login attempt : 17:37:30.191039200
+info : login successful : 17:37:30.814979600
+warn : Error resolving onAction='#btnVideoAction', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:21
+ : 17:37:30.916049
+info : exit program : 17:37:34.807011100
+info : Login Controller accessed : 17:38:08.168540900
+info : Login attempt : 17:38:16.037032400
+info : login successful : 17:38:16.631895800
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:23
+ : 17:38:16.735356800
+info : exit program : 17:38:19.201162700
+info : Login Controller accessed : 17:40:02.502081900
+info : Login attempt : 17:40:21.579002600
+info : login successful : 17:40:22.170476400
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:23
+ : 17:40:22.260031900
+info : exit program : 17:40:25.487569400
+info : Login Controller accessed : 17:40:41.509089800
+info : Login attempt : 17:40:48.859006900
+info : login successful : 17:40:49.499656100
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:23
+ : 17:40:49.594863200
+info : exit program : 17:40:53.021706400
+info : Login Controller accessed : 17:42:31.667844300
+info : Login attempt : 17:42:39.927820800
+info : login successful : 17:42:40.559152
+info : Super page accessed : 17:42:40.701010500
+info : exit program : 17:42:40.743331600
+info : Login Controller accessed : 17:42:49.207789200
+info : Login attempt : 17:43:07.038222900
+info : login successful : 17:43:07.103694200
+info : user page accessed : 17:43:07.207691400
+info : exit program : 17:43:07.245913600
+info : Super page accessed : 17:43:10.841241200
+info : Login Controller accessed : 17:43:21.676842800
+info : exit program : 17:43:22.912604500
+info : Login Controller accessed : 17:43:59.243422200
+info : Login attempt : 17:44:07.022946500
+info : login successful : 17:44:07.679998600
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 17:44:07.768613300
+info : exit program : 17:44:23.964892700
+info : Login Controller accessed : 17:53:15.955527600
+info : Login attempt : 17:53:23.623005800
+info : login successful : 17:53:24.486742200
+info : Super page accessed : 17:53:24.631493700
+info : exit program : 17:53:24.683287
+info : Login Controller accessed : 17:53:34.237096400
+info : Login attempt : 17:53:39.643459700
+info : login successful : 17:53:39.721991900
+info : user page accessed : 17:53:39.815799700
+info : exit program : 17:53:39.856532100
+info : Super page accessed : 17:53:43.206190600
+info : Login Controller accessed : 17:53:53.007137
+info : exit program : 17:53:53.975042400
+info : Login Controller accessed : 17:55:25.833584800
+info : leaving login page : 17:55:28.392796200
+info : Register attempt could be made : 17:55:28.484421600
+info : Password has been compromised : 17:55:57.942915900
+info : Pasword do not Match : 17:56:20.090615900
+info : OK : 17:56:51.968195300
+info : new user added : 17:56:52.055722
+info : Login Controller accessed : 17:56:52.119070900
+info : Login attempt : 17:57:07.606265500
+info : login successful : 17:57:07.668407
+info : user page accessed : 17:57:07.761936600
+info : exit program : 17:57:07.801864800
+info : Super page accessed : 17:57:15.120874100
+info : Login Controller accessed : 17:57:16.647368600
+info : Login attempt : 17:57:35.938738300
+info : login successful : 17:57:35.999928800
+info : admin page accessed : 17:57:36.116269200
+info : exit program : 17:57:36.419613300
+info : Login Controller accessed : 17:57:48.776437400
+info : Login attempt : 17:57:58.508239200
+info : login successful : 17:57:58.537428200
+info : Super page accessed : 17:57:58.604018200
+info : exit program : 17:57:58.636919900
+info : Login Controller accessed : 17:58:03.484854500
+info : exit program : 17:58:04.173503500
+info : Login Controller accessed : 20:32:36.847880600
+info : Login attempt : 20:32:45.565789400
+info : login successful : 20:32:46.205688900
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:37
+ : 20:32:46.338827100
+info : exit program : 20:33:04.394779400
+info : Login Controller accessed : 20:33:39.604408
+info : Login attempt : 20:33:46.999084800
+info : login successful : 20:33:47.632428
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:37
+ : 20:33:47.770889
+info : Login attempt : 20:33:57.030762300
+info : login successful : 20:33:57.089163900
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/SUPER.fxml:37
+ : 20:33:57.162571300
+info : Login attempt : 20:34:04.478333400
+info : login successful : 20:34:04.534709200
+info : user page accessed : 20:34:04.604228300
+info : exit program : 20:34:04.644036800
+info : Login Controller accessed : 20:34:10.535915800
+info : exit program : 20:34:11.463389400
+info : Login Controller accessed : 20:35:41.842834800
+info : exit program : 20:35:45.105771500
+info : Login Controller accessed : 20:36:20.342394400
+info : Login attempt : 20:36:31.294225900
+info : login successful : 20:36:31.894292800
+warn : Error resolving onAction='#btnVideo', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 20:36:31.977885900
+info : exit program : 20:36:38.427910900
+info : Login Controller accessed : 20:47:34.888728700
+info : Login attempt : 20:47:43.675877300
+info : login successful : 20:47:44.285187900
+warn : Error resolving onAction='#btnVideo', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 20:47:44.382425800
+info : exit program : 20:47:47.300534400
+info : Login Controller accessed : 20:48:38.211990600
+info : Login attempt : 20:48:46.402873
+info : login successful : 20:48:47.016409200
+info : user page accessed : 20:48:47.139665200
+info : exit program : 20:48:47.183516700
+info : Login Controller accessed : 20:50:27.113440300
+info : Login attempt : 20:50:35.298212200
+info : login successful : 20:50:35.909116600
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:37
+ : 20:50:36.041215100
+info : exit program : 20:50:40.709854
+info : Login Controller accessed : 20:51:24.961053
+info : Login attempt : 20:51:34.595602600
+info : login successful : 20:51:35.190206
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:37
+ : 20:51:35.316305100
+info : exit program : 20:51:36.351738500
+info : Login Controller accessed : 20:53:15.821417800
+info : Login attempt : 20:53:23.301627400
+info : login successful : 20:53:23.897755200
+info : Super page accessed : 20:53:24.022208600
+info : exit program : 20:53:24.060261200
+info : Login Controller accessed : 20:53:25.773580700
+info : exit program : 20:53:26.958070
+info : Login Controller accessed : 20:53:40.923777900
+info : Login attempt : 20:53:47.993824600
+info : login successful : 20:53:48.601050
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:37
+ : 20:53:48.729182700
+info : exit program : 20:53:49.659631600
+info : Login Controller accessed : 21:01:40.406454700
+info : Login attempt : 21:01:47.884978400
+info : login successful : 21:01:48.473980600
+info : Super page accessed : 21:01:48.598753400
+info : exit program : 21:01:48.638204600
+info : Login Controller accessed : 21:01:54.199160200
+info : exit program : 21:01:55.161992300
+info : Login Controller accessed : 21:04:33.151202200
+info : Login attempt : 21:05:48.191233400
+info : login successful : 21:05:48.774142
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:36
+ : 21:05:48.890037600
+info : exit program : 21:05:52.877027100
+info : Login Controller accessed : 21:06:47.480114100
+info : Login attempt : 21:06:54.519169200
+info : login successful : 21:06:55.177146100
+info : Super page accessed : 21:06:55.331195900
+info : exit program : 21:06:55.485770900
+info : Login Controller accessed : 21:06:56.931827400
+info : exit program : 21:06:57.826073900
+info : Login Controller accessed : 21:14:21.994347
+info : exit program : 21:14:26.909057200
+info : Login Controller accessed : 21:14:38.382007700
+info : Login attempt : 21:14:45.604254200
+info : login successful : 21:14:46.204616
+info : Super page accessed : 21:14:46.324170400
+info : exit program : 21:14:46.363026400
+info : Login Controller accessed : 21:14:51.268543500
+info : exit program : 21:14:52.106130400
+info : Login Controller accessed : 21:15:39.829731100
+info : Login attempt : 21:16:58.937808700
+info : login successful : 21:16:59.495446
+info : Super page accessed : 21:16:59.618217200
+info : exit program : 21:16:59.665761
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml:12
+ : 21:17:01.217954800
+info : Login Controller accessed : 21:17:15.826278100
+info : exit program : 21:17:16.825695500
+info : Login Controller accessed : 21:17:57.850401500
+info : Login attempt : 21:18:05.884163400
+info : login successful : 21:18:06.447873800
+info : Super page accessed : 21:18:06.581833100
+info : exit program : 21:18:06.622359
+info : Video page accessed : 21:18:07.612931300
+info : Login Controller accessed : 21:40:05.536483
+info : Login attempt : 21:40:12.788996
+info : login successful : 21:40:13.392596800
+info : Super page accessed : 21:40:13.509266600
+info : exit program : 21:40:13.546510400
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml:13
+ : 21:40:14.995394
+info : Login Controller accessed : 21:40:17.328787700
+info : exit program : 21:40:26.522122400
+info : Login Controller accessed : 21:41:55.340423700
+info : Login attempt : 21:42:03.614541100
+info : login successful : 21:42:04.229741200
+info : Super page accessed : 21:42:04.360516100
+info : exit program : 21:42:04.397759300
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml:13
+ : 21:42:05.786531200
+info : Login Controller accessed : 21:42:07.845643200
+info : exit program : 21:42:08.753785700
+info : Login Controller accessed : 21:42:47.349340600
+info : Login Controller accessed : 21:50:17.543668200
+info : Login attempt : 21:50:24.593145100
+info : login successful : 21:50:25.191420600
+info : user page accessed : 21:50:25.315507300
+info : exit program : 21:50:25.369496
+info : Super page accessed : 21:50:28.779187500
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml
+ : 21:50:30.732417100
+info : Login Controller accessed : 21:50:37.854558900
+info : exit program : 21:50:38.756073500
+info : Login Controller accessed : 21:51:06.757372200
+info : Login attempt : 21:51:14.761534900
+info : login successful : 21:51:15.349078500
+info : Super page accessed : 21:51:15.487799800
+info : exit program : 21:51:15.542923600
+warn : Location is required. : 21:51:17.109210800
+info : Login Controller accessed : 21:51:20.032304400
+info : exit program : 21:51:21.211810700
+info : Login Controller accessed : 21:52:31.525776
+info : Login attempt : 21:52:38.025099800
+info : login successful : 21:52:38.626801700
+info : Super page accessed : 21:52:38.752184
+info : exit program : 21:52:38.795538900
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml:13
+ : 21:52:39.792599900
+info : Login Controller accessed : 21:52:44.970851600
+info : exit program : 21:52:46.228928300
+info : Login Controller accessed : 21:53:11.680928200
+info : exit program : 21:53:17.424500200
+info : Login Controller accessed : 22:00:08.595601
+info : Login attempt : 22:00:16.487504300
+info : login successful : 22:00:17.074021400
+info : Super page accessed : 22:00:17.193507100
+info : exit program : 22:00:17.230817500
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml:8
+ : 22:00:18.525405
+info : Login Controller accessed : 22:00:22.547418100
+info : exit program : 22:00:25.484919800
+info : Login Controller accessed : 22:02:21.883141600
+info : Login attempt : 22:02:31.913305200
+info : login successful : 22:02:32.536397300
+info : Super page accessed : 22:02:32.650846700
+info : exit program : 22:02:32.691175800
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml:7
+ : 22:02:33.916918300
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml:7
+ : 22:02:39.001887800
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml:7
+ : 22:02:44.411760500
+info : Login Controller accessed : 22:02:46.317981300
+info : exit program : 22:02:47.254722900
+info : Login Controller accessed : 22:03:17.380373600
+info : Login attempt : 22:03:26.078033200
+info : login successful : 22:03:26.680004200
+info : Super page accessed : 22:03:26.801120500
+info : exit program : 22:03:26.838447500
+info : user page accessed : 22:03:27.704352500
+info : Login Controller accessed : 22:06:15.154905200
+info : exit program : 22:06:17.249103100
+info : Login Controller accessed : 22:09:44.992332300
+info : Login attempt : 22:09:54.013237400
+info : login successful : 22:09:54.620004800
+info : Super page accessed : 22:09:54.743891200
+info : exit program : 22:09:54.788276200
+warn : No controller specified.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml:10
+ : 22:09:56.275673700
+info : Login Controller accessed : 22:09:58.015875300
+info : exit program : 22:09:58.995345100
+info : Login Controller accessed : 22:15:58.964026400
+info : exit program : 22:16:03.310315600
+info : Login Controller accessed : 22:16:14.700795300
+info : Login attempt : 22:16:21.452482100
+info : login successful : 22:16:22.025857100
+info : Super page accessed : 22:16:22.147103500
+info : exit program : 22:16:22.190440700
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/video.fxml:11
+ : 22:16:23.525155400
+info : Login Controller accessed : 22:16:32.406464200
+info : exit program : 22:16:33.324171
+info : Login Controller accessed : 22:21:51.680358900
+info : Login attempt : 22:21:58.664111700
+info : login successful : 22:21:59.251446700
+warn : Error resolving onAction='#btnVideoAction', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 22:21:59.341720400
+info : exit program : 22:22:02.282847
+info : Login Controller accessed : 22:24:23.649920800
+info : Login attempt : 22:24:34.685521500
+info : login successful : 22:24:35.272232
+warn : Error resolving onAction='#btnVideoAction', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 22:24:35.374207200
+info : exit program : 22:24:49.978060100
+info : Login Controller accessed : 22:25:26.135300900
+info : Login attempt : 22:25:33.192169400
+info : login successful : 22:25:33.903049500
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:36
+ : 22:25:34.033089600
+info : exit program : 22:25:37.161017600
+info : Login Controller accessed : 22:26:02.315344100
+info : Login attempt : 22:26:09.495261800
+info : login successful : 22:26:10.078938500
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:36
+ : 22:26:10.215807300
+info : exit program : 22:26:15.801642
+info : Login Controller accessed : 22:26:29.086773100
+info : Login Controller accessed : 22:26:41.646068300
+info : Login attempt : 22:26:48.737916500
+info : login successful : 22:26:49.338085500
+info : Super page accessed : 22:26:49.451381300
+info : exit program : 22:26:49.504280800
+info : Login Controller accessed : 22:26:58.317269200
+info : exit program : 22:26:59.230876700
+info : Login Controller accessed : 22:28:24.359301400
+info : Login attempt : 22:28:31.968356500
+info : login successful : 22:28:32.572352900
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:36
+ : 22:28:32.714111600
+info : exit program : 22:28:36.702346400
+info : Login Controller accessed : 22:29:09.069234
+info : Login attempt : 22:29:15.932564500
+info : login successful : 22:29:16.522889100
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:36
+ : 22:29:16.641612900
+info : exit program : 22:29:18.932219
+info : Login Controller accessed : 22:29:33.832376500
+info : Login attempt : 22:29:40.940817
+info : login successful : 22:29:41.574256700
+info : Super page accessed : 22:29:41.697978300
+info : exit program : 22:29:41.727957400
+info : Login Controller accessed : 22:29:50.038129
+info : exit program : 22:29:51.741290400
+info : Login Controller accessed : 22:30:18.825064400
+info : Login attempt : 22:30:26.271677800
+info : login successful : 22:30:26.858935600
+info : Super page accessed : 22:30:26.988293400
+info : exit program : 22:30:27.025005800
+info : Login Controller accessed : 22:30:32.471353700
+info : exit program : 22:30:34.154164100
+info : Login Controller accessed : 22:31:05.790704800
+info : Login attempt : 22:31:12.880433
+info : login successful : 22:31:13.472932300
+info : Super page accessed : 22:31:13.594995200
+info : exit program : 22:31:13.634841400
+info : Login Controller accessed : 22:31:15.525997500
+info : exit program : 22:31:17.590215100
+info : Login Controller accessed : 22:33:13.013506900
+info : Login attempt : 22:33:20.508653200
+info : login successful : 22:33:21.092532200
+info : Super page accessed : 22:33:21.218624400
+info : exit program : 22:33:21.257525400
+info : Login Controller accessed : 22:33:26.644839100
+info : exit program : 22:33:27.800696900
+info : Login Controller accessed : 22:33:53.961885400
+info : Login attempt : 22:34:01.248844100
+info : login successful : 22:34:01.868475800
+info : Super page accessed : 22:34:01.997840600
+info : exit program : 22:34:02.042311100
+info : Login Controller accessed : 22:34:05.178142600
+info : exit program : 22:34:06.103669900
+info : Login Controller accessed : 22:34:37.548733400
+info : Login attempt : 22:34:45.501197200
+info : login successful : 22:34:46.123761500
+info : Super page accessed : 22:34:46.256647400
+info : exit program : 22:34:46.306051700
+info : Login Controller accessed : 22:35:17.201492500
+info : exit program : 22:35:18.134697200
+info : Login Controller accessed : 22:35:31.379718500
+info : Login attempt : 22:35:39.622328800
+info : login successful : 22:35:40.229267100
+warn : 
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:22
+ : 22:35:40.343624900
+info : exit program : 22:35:41.929801
+info : Login Controller accessed : 23:05:45.868849600
+info : Login attempt : 23:05:53.496510500
+info : login successful : 23:05:54.120792
+info : Super page accessed : 23:05:54.309379800
+info : exit program : 23:05:54.373488700
+info : Login Controller accessed : 23:05:58.418786
+info : exit program : 23:05:59.504601100
+info : Login Controller accessed : 23:08:36.600266700
+info : Login attempt : 23:08:43.604385400
+info : login successful : 23:08:44.203385700
+info : Super page accessed : 23:08:44.405036400
+info : exit program : 23:08:44.581803
+info : Login Controller accessed : 23:08:58.759523600
+info : exit program : 23:08:59.855093100
+info : Login Controller accessed : 23:15:25.459360800
+info : Login attempt : 23:15:33.046365500
+info : login successful : 23:15:33.651072500
+info : Super page accessed : 23:15:33.848743200
+info : exit program : 23:15:33.919192
+info : Login Controller accessed : 23:15:40.889839200
+info : exit program : 23:15:41.877981800
+info : Login Controller accessed : 23:16:23.718489700
+info : Login attempt : 23:16:30.797617500
+info : login successful : 23:16:31.408579200
+info : Super page accessed : 23:16:31.596357600
+info : exit program : 23:16:31.660409900
+info : Login Controller accessed : 23:18:13.934374800
+info : Login attempt : 23:18:48.817146200
+info : exit program : 23:18:52.683600700
+info : Login Controller accessed : 23:19:32.205094700
+info : Login attempt : 23:19:50.457509500
+info : login successful : 23:19:51.056292
+info : Super page accessed : 23:19:51.243235500
+info : exit program : 23:19:51.324756800
+warn : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? 1111' at line 1 : 23:19:56.518773800
+warn : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? 2222' at line 1 : 23:20:03.332666400
+info : Login Controller accessed : 23:20:26.570898700
+info : exit program : 23:20:27.558167100
+info : Login Controller accessed : 00:23:34.398115100
+info : Login attempt : 00:23:43.447781900
+info : login successful : 00:23:44.043645600
+info : exit program : 00:23:44.313201200
+info : Login Controller accessed : 00:24:06.691463800
+info : exit program : 00:24:07.567338
+info : Login Controller accessed : 00:24:40.792692100
+info : Login attempt : 00:24:48.198594
+info : login successful : 00:24:48.807633700
+info : exit program : 00:24:49.091622200
+info : Login Controller accessed : 00:24:55.116924100
+info : exit program : 00:24:56.776277600
+info : Login Controller accessed : 00:25:45.816484200
+info : Login attempt : 00:25:54.407991100
+info : login successful : 00:25:55.000808400
+info : exit program : 00:25:55.266184
+info : Login Controller accessed : 00:26:03.222688700
+info : exit program : 00:26:04.555478300
+info : Login Controller accessed : 00:27:03.774553400
+info : Login attempt : 00:27:12.116111600
+info : login successful : 00:27:12.714413400
+info : exit program : 00:27:12.973822
+info : Login Controller accessed : 00:27:15.936643200
+info : exit program : 00:27:17.100836
+info : Login Controller accessed : 00:27:42.323116800
+info : Login attempt : 00:27:50.297664900
+info : login successful : 00:27:50.937757100
+info : exit program : 00:27:51.328642600
+info : Login Controller accessed : 00:27:56.742603
+info : exit program : 00:27:57.765961500
+info : Login Controller accessed : 15:34:22.091100800
+info : Login attempt : 15:34:30.278922200
+info : login successful : 15:34:31.149276400
+info : exit program : 15:34:32.056486100
+info : Login Controller accessed : 15:34:45.983579
+info : exit program : 15:34:47.122370
+info : Login Controller accessed : 16:16:39.949636
+info : Login attempt : 16:16:47.713414200
+info : login successful : 16:16:48.324975800
+info : exit program : 16:16:48.705566800
+info : Login Controller accessed : 16:17:37.746229600
+info : exit program : 16:17:39.123975100
+info : Login Controller accessed : 16:48:57.801186200
+info : Login attempt : 16:49:05.748474600
+info : login successful : 16:49:06.384208900
+info : exit program : 16:49:06.765977400
+info : Login Controller accessed : 16:49:52.950277500
+info : exit program : 16:49:54.626786
+info : Login Controller accessed : 16:54:16.623622400
+info : Login attempt : 16:54:25.522119600
+info : login successful : 16:54:26.160200500
+info : exit program : 16:54:26.532125700
+info : Login Controller accessed : 22:47:22.902458300
+info : Login attempt : 22:47:30.329529400
+info : login successful : 22:47:30.953126800
+info : exit program : 22:47:31.234601
+info : Login Controller accessed : 22:50:35.434529700
+info : Login attempt : 22:50:45.107503300
+info : login successful : 22:50:45.695608300
+info : exit program : 22:50:45.967258800
+warn : null : 22:51:09.237170
+info : Login Controller accessed : 22:51:16.600251300
+info : exit program : 22:51:17.826416700
+warn : null : 22:51:25.701601900
+info : Login Controller accessed : 22:51:27.066162
+info : exit program : 22:51:28.300917300
+info : Login Controller accessed : 22:53:38.154065600
+info : Login attempt : 22:53:45.862891100
+info : login successful : 22:53:46.484444800
+info : exit program : 22:53:46.739221700
+warn : null : 22:54:15.436462900
+info : Login Controller accessed : 22:54:16.905477300
+info : exit program : 22:54:17.990396
+warn : null : 22:54:23.819340200
+info : Login Controller accessed : 22:54:25.886345300
+info : exit program : 22:54:27.041452700
+info : Login Controller accessed : 22:55:38.697951500
+info : Login attempt : 22:55:46.603070900
+info : login successful : 22:55:47.212632500
+info : exit program : 22:55:47.465794200
+warn : null : 22:56:10.219674300
+info : Login Controller accessed : 22:56:12.698659300
+info : exit program : 22:56:13.727089
+warn : null : 22:56:19.626854100
+info : Login Controller accessed : 22:56:20.894150100
+info : exit program : 22:56:38.835436700
+info : Login Controller accessed : 22:58:18.615033800
+info : Login attempt : 22:58:25.961848800
+info : login successful : 22:58:26.591431300
+info : exit program : 22:58:26.826492900
+warn : null : 22:58:31.191591800
+info : Login Controller accessed : 22:58:33.294792800
+info : exit program : 22:58:35.376829
+info : Login Controller accessed : 23:27:25.896760200
+info : Login attempt : 23:27:39.952219
+info : login successful : 23:27:40.611798400
+info : exit program : 23:27:40.810581200
+info : Login Controller accessed : 23:28:15.751904900
+info : Login attempt : 23:28:23.344214100
+info : login successful : 23:28:23.988204
+info : exit program : 23:28:24.166934300
+info : Login Controller accessed : 23:12:07.852751100
+info : Login attempt : 23:12:27.632994600
+info : login successful : 23:12:28.460759900
+info : user page accessed : 23:12:28.603287400
+info : exit program : 23:12:28.643083700
+info : Login Controller accessed : 23:12:54.987646
+info : Login attempt : 23:13:01.997571900
+info : login successful : 23:13:02.062755900
+info : user page accessed : 23:13:02.135151700
+info : exit program : 23:13:02.169854700
+info : Login Controller accessed : 23:13:13.636757900
+info : exit program : 23:13:14.626549500
+info : Login Controller accessed : 23:13:39.683017700
+info : Login attempt : 23:13:58.414057600
+info : login successful : 23:13:59.038383500
+info : user page accessed : 23:13:59.168798
+info : exit program : 23:13:59.212532900
+info : Login Controller accessed : 23:16:28.488651800
+info : Login attempt : 23:16:35.402729700
+info : login successful : 23:16:35.993654300
+info : user page accessed : 23:16:36.119044
+info : exit program : 23:16:36.162848700
+info : Login Controller accessed : 23:16:49.429259700
+info : exit program : 23:16:50.687941400
+info : Login Controller accessed : 00:28:22.742894900
+info : Login attempt : 00:28:31.357937100
+info : login successful : 00:28:31.959276200
+info : user page accessed : 00:28:32.085073400
+info : exit program : 00:28:32.127507300
+info : Login Controller accessed : 00:28:56.261320200
+info : exit program : 00:28:57.369822300
+info : Login Controller accessed : 00:29:46.409010300
+info : Login attempt : 00:29:54.438786300
+info : login successful : 00:29:55.023273100
+info : user page accessed : 00:29:55.148386300
+info : exit program : 00:29:55.188134500
+info : Login Controller accessed : 00:30:05.800438100
+info : exit program : 00:30:06.829703
+info : Login Controller accessed : 00:30:18.760375900
+info : Login attempt : 00:30:27.481219300
+info : login successful : 00:30:28.062888300
+info : user page accessed : 00:30:28.183791200
+info : exit program : 00:30:28.224667900
+warn : null : 00:30:38.632359700
+info : Login Controller accessed : 00:30:41.136055600
+info : exit program : 00:30:43.254601800
+info : Login Controller accessed : 21:56:29.573092400
+info : Login attempt : 21:56:37.946642600
+info : login successful : 21:56:38.847824600
+info : exit program : 21:56:39.023267700
+warn : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? 1111AND WHERE Role = Super' at line 1 : 21:56:45.942814100
+warn : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? 2222AND WHERE Role = Super' at line 1 : 21:56:50.531439900
+info : Login Controller accessed : 21:57:14.033177200
+info : exit program : 21:57:15.016319100
+info : Login Controller accessed : 21:57:45.789566200
+info : Login attempt : 21:57:55.587498800
+info : login successful : 21:57:56.242377300
+info : exit program : 21:57:56.404548700
+warn : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? 1111' at line 1 : 21:58:00.303279200
+warn : You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? 2222' at line 1 : 21:58:10.326563
+info : Login Controller accessed : 21:58:15.762943
+info : exit program : 21:58:16.737631600
+info : Login Controller accessed : 22:27:28.333034800
+info : Login attempt : 22:27:36.380468
+info : login successful : 22:27:37.297649300
+info : exit program : 22:27:37.499139100
+info : Login Controller accessed : 22:28:05.324373800
+info : Login attempt : 22:28:16.457906700
+info : login successful : 22:28:17.055558500
+info : exit program : 22:28:17.222271
+info : Login Controller accessed : 22:28:30.189621700
+info : exit program : 22:28:31.346770200
+info : Login Controller accessed : 22:33:55.994608100
+info : Login Controller accessed : 22:37:27.626900700
+info : Login attempt : 22:37:35.578697500
+info : login successful : 22:37:36.165900400
+info : exit program : 22:37:36.336185600
+info : Login Controller accessed : 22:38:08.887432900
+info : Login attempt : 22:38:15.986828800
+info : login successful : 22:38:16.002583100
+info : exit program : 22:38:16.114880800
+info : Login Controller accessed : 22:38:26.519495300
+info : exit program : 22:38:27.662952
+info : Login Controller accessed : 22:38:50.732492
+info : Login attempt : 22:38:59.072859300
+info : login successful : 22:38:59.678047200
+info : exit program : 22:38:59.856040800
+info : Login Controller accessed : 22:39:06.109659900
+info : exit program : 22:39:07.455858700
+info : Login Controller accessed : 22:40:18.106067200
+info : Login attempt : 22:40:26.000654900
+info : login successful : 22:40:26.583304700
+info : exit program : 22:40:26.738635400
+warn : null : 22:40:31.478985500
+info : Login Controller accessed : 22:40:37.767052500
+info : exit program : 22:40:38.712263400
+info : Login Controller accessed : 22:44:18.482659800
+info : Login attempt : 22:44:45.922934700
+info : login successful : 22:44:46.541608100
+info : exit program : 22:44:46.724565700
+info : Login Controller accessed : 00:09:34.153814
+info : Login attempt : 00:09:42.414421200
+info : login successful : 00:09:42.991284
+info : exit program : 00:09:43.156621200
+info : Login Controller accessed : 00:10:45.985772700
+info : Login attempt : 00:11:27.350570100
+info : login successful : 00:11:27.941971800
+info : exit program : 00:11:28.098884500
+info : Login Controller accessed : 00:13:31.779784200
+info : Login attempt : 00:13:39.953295800
+info : login successful : 00:13:40.565507800
+info : exit program : 00:13:40.745046100
+warn : null : 00:14:05.551845
+info : Login Controller accessed : 00:14:13.985435800
+info : exit program : 00:14:15.565176900
+info : Login Controller accessed : 00:15:11.415113800
+info : Login attempt : 00:15:18.186878900
+info : login successful : 00:15:18.781630200
+info : exit program : 00:15:18.953344500
+warn : null : 00:15:31.508363
+info : Login Controller accessed : 00:15:34.489899
+info : exit program : 00:15:35.384087
+info : Login Controller accessed : 00:23:48.145700
+info : Login attempt : 00:23:55.979526700
+info : login successful : 00:23:56.591129600
+info : exit program : 00:23:56.768377300
+info : Login Controller accessed : 00:27:31.352561300
+info : Login attempt : 00:27:38.376707600
+info : login successful : 00:27:38.975413900
+info : exit program : 00:27:39.140601800
+warn : null : 00:28:07.590484400
+info : Login Controller accessed : 00:28:12.220378
+info : exit program : 00:28:13.540412800
+info : Login Controller accessed : 19:36:13.544153
+info : exit program : 19:36:16.011462500
+info : Login Controller accessed : 19:36:47.891186900
+info : Login attempt : 19:37:00.008229100
+info : login successful : 19:37:00.918341600
+info : user page accessed : 19:37:01.043676900
+info : exit program : 19:37:01.084181
+info : Login Controller accessed : 19:37:02.969323200
+info : exit program : 19:37:04.183197600
+info : Login Controller accessed : 20:03:27.146753700
+info : leaving login page : 20:03:31.907699500
+info : Register attempt could be made : 20:03:32.109032800
+info : Login Controller accessed : 20:03:33.703615900
+info : exit program : 20:03:39.585526200
+info : Login Controller accessed : 20:04:21.695625700
+info : Login attempt : 20:04:39.734670200
+info : Invalid credentials : 20:04:40.397926
+info : Login attempt : 20:04:52.399320800
+info : login successful : 20:04:52.463680900
+info : user page accessed : 20:04:52.580844800
+info : exit program : 20:04:52.622388800
+info : Login Controller accessed : 20:04:53.943765100
+info : exit program : 20:05:12.913818800
+info : Login Controller accessed : 20:05:29.150341500
+info : leaving login page : 20:06:06.141720100
+info : Register attempt could be made : 20:06:06.204278400
+info : Login Controller accessed : 20:06:13.745783500
+info : leaving login page : 20:06:17.813187300
+info : Register attempt could be made : 20:06:17.869579
+info : Login Controller accessed : 20:06:22.107552700
+info : exit program : 20:06:23.058285300
+info : Login Controller accessed : 20:06:43.807095200
+info : Login attempt : 20:06:58.421255600
+info : login successful : 20:06:59.043966900
+info : user page accessed : 20:06:59.168965400
+info : exit program : 20:06:59.208266400
+info : Login Controller accessed : 20:07:00.604152700
+info : exit program : 20:07:02.383618300
+info : Login Controller accessed : 20:08:03.198507900
+info : Login attempt : 20:08:10.848319600
+info : login successful : 20:08:11.470292900
+info : user page accessed : 20:08:11.609027900
+info : exit program : 20:08:11.646833800
+info : Login Controller accessed : 20:08:13.194648400
+info : exit program : 20:08:14.270991900
+info : Login Controller accessed : 20:09:29.358188100
+info : Login attempt : 20:09:36.842719400
+info : login successful : 20:09:37.442621700
+info : user page accessed : 20:09:37.568207700
+info : exit program : 20:09:37.609964900
+info : Login Controller accessed : 20:09:38.873427800
+info : exit program : 20:09:40.032799800
+info : Login Controller accessed : 20:09:50.020469800
+info : Login attempt : 20:10:05.402987100
+info : login successful : 20:10:06.026580600
+info : exit program : 20:10:06.218586700
+info : Login Controller accessed : 20:10:07.167531100
+info : exit program : 20:10:08.179529800
+info : Login Controller accessed : 20:10:35.459263
+info : Login attempt : 20:10:43.690592
+info : Invalid credentials : 20:10:44.342280700
+info : exit program : 20:10:50.740341500
+info : Login Controller accessed : 20:11:01.989644200
+info : Login attempt : 20:11:10.456036600
+info : Invalid credentials : 20:11:11.251569100
+info : Login attempt : 20:11:12.220115200
+info : Invalid credentials : 20:11:12.429226400
+info : Login attempt : 20:11:12.961402
+info : Invalid credentials : 20:11:13.129590700
+info : Login attempt : 20:11:13.348372600
+info : Invalid credentials : 20:11:13.511849400
+info : Login attempt : 20:11:13.597588
+info : Invalid credentials : 20:11:13.759846700
+info : Login attempt : 20:11:13.794003800
+info : Invalid credentials : 20:11:13.950921300
+info : Login attempt : 20:11:13.977666800
+info : Invalid credentials : 20:11:14.133559700
+info : Login attempt : 20:11:14.171915600
+info : Invalid credentials : 20:11:14.319406300
+info : Login attempt : 20:11:14.340308800
+info : Invalid credentials : 20:11:14.499476
+info : Login attempt : 20:11:14.526307400
+info : Invalid credentials : 20:11:14.678133900
+info : Login attempt : 20:11:14.717460200
+info : Invalid credentials : 20:11:14.794908700
+info : Login attempt : 20:11:14.916551800
+info : Invalid credentials : 20:11:15.001680500
+info : Login attempt : 20:11:15.270674400
+info : Invalid credentials : 20:11:15.347491200
+info : Login attempt : 20:11:26.808603800
+info : login successful : 20:11:26.851459300
+info : admin page accessed : 20:11:26.953625800
+info : exit program : 20:11:27.334188400
+info : Login Controller accessed : 20:11:53.743476800
+info : exit program : 20:11:55.372987500
+info : Login Controller accessed : 20:17:38.269467700
+info : Login attempt : 20:17:49.976436700
+info : login successful : 20:17:50.607777400
+info : exit program : 20:17:51.345745900
+info : Login Controller accessed : 20:17:52.966784100
+info : exit program : 20:17:55.384120800
+info : Login Controller accessed : 20:18:14.945433700
+info : Login attempt : 20:18:23.579767900
+info : login successful : 20:18:24.186547800
+info : exit program : 20:18:24.361772300
+info : Login Controller accessed : 20:18:25.229681500
+info : exit program : 20:18:26.391308800
+info : Login Controller accessed : 20:20:31.063077100
+info : Login Controller accessed : 20:20:42.912831400
+info : Login Controller accessed : 20:20:53.761481
+info : Login attempt : 20:21:00.449782400
+info : login successful : 20:21:01.056472500
+warn : Error resolving onAction='#btnBackAction', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/admin.fxml:29
+ : 20:21:01.154303600
+info : exit program : 20:21:10.079393900
+info : Login Controller accessed : 20:21:23.346895
+info : Login attempt : 20:21:30.438820400
+info : login successful : 20:21:31.041294600
+warn : Error resolving onAction='#btnBackAction', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/admin.fxml:29
+ : 20:21:31.134781700
+info : Login Controller accessed : 20:22:22.784271100
+info : Login attempt : 20:22:30.854817500
+info : login successful : 20:22:31.436570900
+info : admin page accessed : 20:22:31.576419800
+info : exit program : 20:22:31.947986
+info : Login Controller accessed : 20:22:37.223151700
+info : exit program : 20:22:38.110114900
+info : Login Controller accessed : 20:23:37.003062200
+info : leaving login page : 20:23:40.928750100
+info : exit program : 20:23:43.189137300
+info : Login Controller accessed : 20:23:52.231497700
+info : leaving login page : 20:23:54.406248700
+info : Register attempt could be made : 20:23:54.477527200
+info : Login Controller accessed : 20:23:55.834239300
+info : exit program : 20:23:56.795764900
+info : Login Controller accessed : 20:24:12.821395100
+info : leaving login page : 20:24:15.087149500
+info : exit program : 20:24:16.531108400
+info : Login Controller accessed : 20:24:33.860598800
+info : leaving login page : 20:24:48.199009200
+info : exit program : 20:24:49.684808500
+info : Login Controller accessed : 20:25:03.368022100
+info : leaving login page : 20:25:05.271762400
+info : Register attempt could be made : 20:25:05.344860200
+info : Login Controller accessed : 20:25:06.369172700
+info : exit program : 20:25:12.228249400
+info : Login Controller accessed : 20:25:22.034643200
+info : leaving login page : 20:25:24.090116
+info : Register attempt could be made : 20:25:24.158237900
+info :  invalid pin  Invalid E-Mail address Password is not long enough : 20:25:27.376758200
+info : Login Controller accessed : 20:25:35.849494100
+info : exit program : 20:25:37.214261900
+info : Login Controller accessed : 20:26:11.823169200
+info : leaving login page : 20:26:14.881950100
+info : Register attempt could be made : 20:26:14.954080900
+info :  invalid pin  Invalid E-Mail address Password is not long enough : 20:26:16.997424600
+info : Login Controller accessed : 20:26:20.155716300
+info : exit program : 20:26:21.239378200
+info : Login Controller accessed : 20:26:34.952002100
+info : Login Controller accessed : 20:26:43.773695500
+info : leaving login page : 20:26:47.378962200
+info : Register attempt could be made : 20:26:47.443480100
+info : Login Controller accessed : 20:26:50.541256800
+info : leaving login page : 20:26:54.064900400
+info : Register attempt could be made : 20:26:54.116386100
+info : Login Controller accessed : 20:26:56.375538600
+info : exit program : 20:26:57.355108700
+info : Login Controller accessed : 20:27:35.127185100
+info : Login attempt : 20:27:47.737675600
+info : login successful : 20:27:48.344295800
+info : exit program : 20:27:48.511298
+info : Login Controller accessed : 20:27:59.871334600
+info : exit program : 20:28:01.218739300
+info : Login Controller accessed : 20:28:12.385770600
+info : Login attempt : 20:28:49.957949800
+info : login successful : 20:28:50.512401900
+info : exit program : 20:28:50.669690100
+info : Login Controller accessed : 20:29:17.117306500
+info : exit program : 20:29:19.966907300
+info : Login Controller accessed : 20:31:35.527047100
+info : Login attempt : 20:31:51.531668900
+info : login successful : 20:31:52.159305700
+info : exit program : 20:31:52.338859600
+info : Login Controller accessed : 20:31:58.587196300
+info : exit program : 20:31:59.558915500
+info : Login Controller accessed : 20:32:20.558819100
+info : Login attempt : 20:32:29.259935300
+info : login successful : 20:32:29.894060100
+info : exit program : 20:32:30.058540800
+warn : null : 20:32:52.305913
+info : Login Controller accessed : 20:33:04.327161900
+info : exit program : 20:33:05.912412500
+info : Login Controller accessed : 20:35:10.221512500
+info : Login Controller accessed : 20:35:22.633074
+info : Login attempt : 20:35:35.254620600
+info : login successful : 20:35:35.886098900
+info : exit program : 20:35:36.062607600
+info : Login Controller accessed : 20:37:05.302685100
+info : Login attempt : 20:37:13.140766200
+info : login successful : 20:37:13.716563400
+info : exit program : 20:37:13.873582900
+info : Login Controller accessed : 20:37:28.384046600
+info : exit program : 20:37:29.659305400
+info : Login Controller accessed : 20:52:08.555812900
+info : Login attempt : 20:52:15.778308900
+info : login successful : 20:52:16.359853400
+warn : Error resolving onAction='#setSuperBtnVid', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/super.fxml:21
+ : 20:52:16.457470800
+info : exit program : 20:52:18.222044700
+info : Login Controller accessed : 20:52:27.636935700
+info : Login attempt : 20:52:34.512141700
+info : login successful : 20:52:35.108248700
+info : exit program : 20:52:35.278954900
+info : Login Controller accessed : 20:52:36.688546400
+info : exit program : 20:52:37.747546400
+info : Login Controller accessed : 20:57:07.923769900
+info : Login attempt : 20:57:19.246006500
+info : login successful : 20:57:19.849112500
+info : user page accessed : 20:57:19.974850500
+info : exit program : 20:57:20.018331500
+info : Login Controller accessed : 20:57:23.565754900
+info : exit program : 20:57:24.485490
+info : Login Controller accessed : 20:57:39.243643200
+info : Login attempt : 20:57:46.559462
+info : login successful : 20:57:47.172043600
+info : user page accessed : 20:57:47.310459
+info : exit program : 20:57:47.357399500
+info : Login Controller accessed : 20:57:49.330277300
+info : exit program : 20:57:51.354174100
+info : Login Controller accessed : 21:01:51.079656600
+info : Login attempt : 21:01:58.489329200
+info : login successful : 21:01:59.104078400
+warn : Error resolving onAction='#setBtnSuperPage', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/user.fxml:29
+ : 21:01:59.218895400
+info : exit program : 21:02:00.601972300
+info : Login Controller accessed : 21:02:33.173493
+info : Login attempt : 21:02:40.451830200
+info : login successful : 21:02:41.087438800
+warn : Error resolving onAction='#btnBackAction', either the event handler is not in the Namespace or there is an error in the script.
+/C:/Users/Briener/Desktop/College%202021/Secure%20App%20Prog/CA1/JavafxProject/out/production/JavaFxApplication/presentation/user.fxml:22
+ : 21:02:41.186897400
+info : exit program : 21:02:42.076078200
+info : Login Controller accessed : 21:23:53.171092100
+info : Login attempt : 21:24:02.510063900
+info : login successful : 21:24:03.135186
+info : user page accessed : 21:24:03.258440100
+info : exit program : 21:24:03.302302400
+info : Login Controller accessed : 21:24:29.512301800
+info : exit program : 21:24:30.596782200
+info : Login Controller accessed : 21:26:06.359760100
+info : Login attempt : 21:26:14.421393600
+info : login successful : 21:26:15.060648800
+info : user page accessed : 21:26:15.187095300
+info : exit program : 21:26:15.226793900
+info : Login Controller accessed : 21:26:23.860788900
+info : exit program : 21:26:24.805787500
+info : Login Controller accessed : 23:24:29.863591200
+info : Login attempt : 23:24:32.439785800
+info : Login attempt : 23:24:46.396430700
+info : Invalid credentials : 23:24:47.044589800
+info : Login attempt : 23:24:59.085878300
+info : login successful : 23:24:59.148788300
+info : user page accessed : 23:24:59.276548100
+info : exit program : 23:24:59.334339700
+info : Login Controller accessed : 23:25:00.617569200
+info : Login attempt : 23:25:20.309921900
+info : Invalid credentials : 23:25:20.512229100
+info : Login attempt : 23:26:01.377190600
+info : Login attempt : 23:27:50.879730600
+info : Invalid credentials : 23:27:50.967900400
+info : Login attempt : 23:28:04.269023600
+info : Invalid credentials : 23:28:04.433582800
+info : exit program : 23:33:01.691334500

@@ -1,0 +1,11 @@
+
+h	java:S116#"TRename this field "VideoPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âƒ„
+]	java:S125)"<This block of commented-out lines of code should be removed.(Ž…­ øÿÿÿÿ8†«ºçÏ/
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ìÈ°òÿÿÿÿÿ
+X	java:S1259"<This block of commented-out lines of code should be removed.(Ô˜ŒÌ8›‚ºçÏ/
+T
+java:S1854Y">Remove this useless assignment to local variable "webHistory".(‹ú²Ù
+E
+java:S1481Y"/Remove this unused "webHistory" local variable.(‹ú²Ù
+J
+java:S1128	"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ

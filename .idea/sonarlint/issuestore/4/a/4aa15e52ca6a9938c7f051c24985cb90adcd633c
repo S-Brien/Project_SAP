@@ -1,0 +1,27 @@
+
+f	java:S116"QRename this field "UserID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úàÄ
+h	java:S116"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È”¸„
+h	java:S116	"SRename this field "UserPass" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¬Ÿö
+c	java:S116
+"NRename this field "Pin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Ä„ı
+f	java:S116"QRename this field "Locked" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ù‚
+p	java:S116"VRename this field "LockAttempt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÆ†Ëşÿÿÿÿ
+e	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áï»‚
+t
+java:S2786="RRemove this redundant "static" qualifier; nested enum types are implicitly static.(òÀÒËÿÿÿÿÿ8à£á.
+o
+java:S2786>"RRemove this redundant "static" qualifier; nested enum types are implicitly static.(Ÿ‹€8à£á.
+G
+java:S1068"*Remove this unused "UserID" private field.(úàÄ8à£á.
+I
+java:S1068	",Remove this unused "UserPass" private field.(”¬Ÿö8à£á.
+D
+java:S1068
+"'Remove this unused "Pin" private field.(¹Ä„ı8à£á.
+F
+java:S1068")Remove this unused "Email" private field.(áï»‚8à£á.
+k
+java:S1104"PMake lock a static final constant or non-public and provide accessors if needed.(è¸¢ııÿÿÿÿ
+r
+java:S1104"PMake role a static final constant or non-public and provide accessors if needed.(Æ‘²Ûûÿÿÿÿ8à£á.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á–Ì“
