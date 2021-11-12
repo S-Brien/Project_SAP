@@ -17,6 +17,4 @@ modify if the javafx-sdk is located in a different directory.
 ### If you need to modify the sql database schema modify the exportdb.sql script to reflect the required changes.
 
 ### Login with the following credentials 
-* user password
-* super password
-* admin password
+Credentials that were discussed in class. 
